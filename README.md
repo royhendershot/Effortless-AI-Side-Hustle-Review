@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Effortless AI Side Hustle Review</title>
   <meta name="description" content="Discover how the Effortless AI Side Hustle can help you build a $10K–$40K/month affiliate income with minimal effort. Read our detailed review to learn more.">
   <meta name="keywords" content="Effortless AI Side Hustle Review, AI Side Hustle, affiliate marketing, passive income, Luther Landro, make money online, AI tools, side hustle">
 </head>
